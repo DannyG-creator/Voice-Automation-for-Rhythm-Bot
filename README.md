@@ -5,7 +5,9 @@ Discord bot that can control the rhythm bot with voice commands.
 install python packages neccessary:
 
 pip install discord.py
+
 pip install python-dotenv
+
 pip install SpeechRecognition
 
 2.
