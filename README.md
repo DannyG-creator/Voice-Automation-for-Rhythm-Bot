@@ -14,7 +14,9 @@ pip install SpeechRecognition
 edit the .env file:
 
 DISCORD_TOKEN=YOUR_DISCORD_TOKEN
+
 VOICE_CHAT=YOUR_VOICE_CHAT
+
 CHANNEL=YOUR_TEXT_CHANNEL
 
 3.
